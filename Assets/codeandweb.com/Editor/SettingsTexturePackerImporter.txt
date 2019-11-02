@@ -1,0 +1,21 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Textures/enemy/enemy.tpsheet
+- Assets/Textures/enemy/sprites/enemyatlas.tpsheet
+- Assets/Textures/enemy/sprites/enemyAtlas.tpsheet
+- Assets/Textures/hero/sprites/heroatlas.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Textures/enemy/enemy.png
+- Assets/Textures/enemy/sprites/enemyatlas.png
+- Assets/Textures/enemy/sprites/enemyAtlas.png
+- Assets/Textures/hero/sprites/heroatlas.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
